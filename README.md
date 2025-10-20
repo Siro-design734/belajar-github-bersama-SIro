@@ -24,15 +24,14 @@ Saya seorang **developer dan pembelajar teknologi** yang suka membangun hal-hal 
 ---
 
 ### 📈 Statistik GitHub Saya
-![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=radical)
+![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siro-design734&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siro-design734&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Hubungi Saya
-- Email: [emailkamu@example.com](mailto:emailkamu@example.com)
-- Instagram: [@username](https://instagram.com/username)
-- LinkedIn: [Profil Saya](https://linkedin.com/in/username)
+- Email: [emailkamu@gmail.com](mailto:naufalyagura@gmail.com)
+- Instagram: [@username](https://www.instagram.com/siro73__?igsh=YnEzaGZhMGszNDJn)
 
 ---
 
