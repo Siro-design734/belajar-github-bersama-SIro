@@ -30,8 +30,8 @@ Saya seorang **developer dan pembelajar teknologi** yang suka membangun hal-hal 
 ---
 
 ### 📫 Hubungi Saya
-- Email: [emailkamu@gmail.com](mailto:naufalyagura@gmail.com)
-- Instagram: [@username](https://www.instagram.com/siro73__?igsh=YnEzaGZhMGszNDJn)
+- Email: [naufalyagura@gmail.com](mailto:naufalyagura@gmail.com)
+- Instagram: [@siro73_](https://www.instagram.com/siro73__?igsh=YnEzaGZhMGszNDJn)
 
 ---
 
